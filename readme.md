@@ -3,7 +3,7 @@
 ### One day...soon...program a tic tac toe game!
 
 Interesting things I learned:
-- Flex display keeping the board centered in the browser because width is not specified for <section> in CSS
+- Flex display keeping the board centered in the browser because width is not specified for section in CSS
 - There's a "fantasy" font-family style and it looks terrible!!!! But, I think if I make a text-based RPG I'll have to use it for scrolls etc.
 
 Stretch Goal (aka __scope creep__)
